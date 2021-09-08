@@ -1,0 +1,68 @@
+
+@import url('https://fonts.googleapis.com/css2?family=IBM+Plex+Sans+KR:wght@300;700&family=Kaisei+Decol:wght@500&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Andada&display=swap');
+
+body{
+    background-color: #EDFEE7;
+    margin: 0;
+    padding: 0;
+    font-family: 'IBM Plex Sans KR', sans-serif;
+    font-family: 'Kaisei Decol', serif;
+}
+#circle-orange{
+    height: 170px;
+    width: 170px;
+    background-color:#F2994A;
+    background-image: linear-gradient(#F2994A, whitesmoke);
+    border-radius: 50%;
+    display: inline-block;
+    border: solid 1px #3433;
+    padding: 25px;
+
+}
+#main-headings{
+display: flex;
+flex-direction: column;
+
+
+}
+.nakaiy_heading{
+    width: 170px    ;
+}
+
+#top_row{
+    padding-top: 10rem;
+}
+
+.main-heading-text{
+    text-align:center;
+    text-transform: uppercase;
+    text-decoration-thickness:  20%;
+    font-style: italic;
+
+}
+
+.main-heading-text h3{
+    -webkit-text-stroke: 0.1px black; 
+}
+
+#iruvai{
+    font-size: 35px;
+    color: #F2994A;
+    font-weight: 900;
+   
+}
+
+#hulhangu{
+    font-weight: 900;
+    font-size: 35px;
+    color: #2F80ED;
+}
+
+#aphos{
+    font-family: 'Andada', serif;
+    font-weight: 900;
+    font-size: 40px;
+    -webkit-text-stroke: 5px black; 
+
+}
