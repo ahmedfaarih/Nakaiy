@@ -66,3 +66,12 @@ flex-direction: column;
     -webkit-text-stroke: 5px black; 
 
 }
+
+#Nakai-list-iruvai{
+    height: 120px;
+    width: 210px;
+    background-color:#F2994A;
+    background-image: linear-gradient(#F2994A, #FFF);
+   border-radius: 50px 50px 50px 50px;
+   position: relative;
+}
