@@ -18,8 +18,13 @@ body{
     display: inline-block;
     border: solid 1px #3433;
     padding: 25px;
+}
+
+#circle-orange{
+    background-color:#2F80ED;
 
 }
+
 #main-headings{
 display: flex;
 flex-direction: column;
